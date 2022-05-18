@@ -1,0 +1,17 @@
+.root{
+    -fx-font-size: 14pt;
+    -fx-font-family: "Nova Flat";
+    -fx-base: transparent;
+    -fx-background-image: url("img/stage/popup4.jpg") black;
+    -fx-background-repeat: repeat repeat;
+    -fx-text-fill: #aeabab;
+    -fx-fill: #aeabab;
+}
+.button{
+    -fx-background-color: transparent;
+    -fx-font-size: 25pt;
+}
+#text{
+    -fx-text-fill: #aeabab;
+    -fx-fill: #aeabab;
+}
